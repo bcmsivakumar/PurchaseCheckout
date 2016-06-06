@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseCheckout", "PurchaseCheckout\PurchaseCheckout.csproj", "{00FA2E80-362B-40F2-B33D-9B2A6F86527F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop", "OnlineShop\OnlineShop.csproj", "{F3B00302-1C64-412C-9ACE-70E3F10D0117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FA2E80-362B-40F2-B33D-9B2A6F86527F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FA2E80-362B-40F2-B33D-9B2A6F86527F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FA2E80-362B-40F2-B33D-9B2A6F86527F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FA2E80-362B-40F2-B33D-9B2A6F86527F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B00302-1C64-412C-9ACE-70E3F10D0117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B00302-1C64-412C-9ACE-70E3F10D0117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B00302-1C64-412C-9ACE-70E3F10D0117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B00302-1C64-412C-9ACE-70E3F10D0117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
